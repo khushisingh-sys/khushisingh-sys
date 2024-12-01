@@ -1,5 +1,4 @@
-## Hi! I'm Khushi, a software engineer interested in ML,django,sql.
-
+I'm Khushi, a software engineer interested in ML,django,sql.
 Check out my projects and feel free to reach out.
 
 <!--
