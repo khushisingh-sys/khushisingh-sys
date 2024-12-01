@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Khushi, a software engineer interested in ML,django,sql.
+
+Check out my projects and feel free to reach out.
 
 <!--
 **khushisingh-sys/khushisingh-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
